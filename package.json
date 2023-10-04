@@ -17,6 +17,7 @@
     "test:unit:ui": "majestic"
   },
   "dependencies": {
+    "@quasar/app": "^3.3.3",
     "@quasar/app-webpack": "^3.11.2",
     "@quasar/extras": "^1.16.4",
     "axios": "^1.2.1",
